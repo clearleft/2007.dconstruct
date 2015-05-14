@@ -1,0 +1,28 @@
+/**{
+ border:1px solid red;
+}*/
+
+#leftnob{
+ top:16px !important;
+ }
+#rightnob{
+ margin-top:16px;
+ }
+#pi-date{
+ margin:0 160px 0 0;
+ border-top:11px solid #fff;
+ display:inline;
+ }
+ 
+p.blockquoted{
+ float:none !important;
+ padding-left:60px !important;
+ }
+ 
+body.buttons div#text ul li{
+ float:none;
+ clear:none;
+}
+#picstrip{
+ border-top:0;
+}

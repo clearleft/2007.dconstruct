@@ -1,0 +1,100 @@
+/*
+meta{
+  date:01-Mar-2007;
+  client:d.Construct 2007;
+  author:Clearleft Ltd;
+  developer:Paul Annett;
+  email:paul@clearleft.com;
+}
+*/
+ 
+body{
+ font:100%/150% Trebuchet MS, Arial, Helvetica, sans-serif;
+ text-align:center;
+ background-color:#6F871D;
+ color:#666;
+ border-top:5px solid #A1C22D;
+}
+a {
+ color:#839E22;
+ text-decoration:none;
+ border-bottom:1px solid #E0E0E0;
+}
+a:hover {
+ color:#fff;
+ background-color:#839E22;
+ border-bottom:1px solid #bbb;
+}
+.clearboth{
+ clear:both;
+}
+.feed {
+ padding-left:22px;
+ background:#fff url(../images/feedicon.gif) 0 0 no-repeat;
+}
+#header{
+ font-size:90%;
+ line-height:250%;
+ width:760px;
+ margin:0 auto;
+ text-transform:uppercase;
+ color:#AFAFAF;
+ padding-top:30px;
+}
+#header ul li{
+ display:inline;
+}
+#header ul li span{
+ margin:0 1em;
+}
+#header ul li .spaced{
+ margin:0 0.5em;
+}
+#headerouter{
+ background-color:#fff;
+}
+#mainouter{
+ background:#fff url(../images/sxsw.gif) top center no-repeat;
+}
+#main{
+ width:720px;
+ margin:0 auto;
+ padding:20px 0 50px 0;
+}
+#main ol{
+ float:left;
+}
+#main ol li img{
+ display:block;
+}
+#main #info{
+ float:right;
+}
+#main #info img{
+ float:none;
+ margin-bottom:2em;
+}
+#main #info p{
+ display:block;
+ width:220px;
+ text-align:left;
+ margin:10px 0 0 20px;
+}
+#footer{
+ color:#B5C57A;
+ background-color:#6F871D;
+ padding:3px;
+ font-size:80%;
+}
+#footer p{
+ width:760px;
+ margin:0 auto;
+}
+#footer a{
+ color:#B5C57A;
+}
+#footer a:hover{
+ color:#6F871D;
+ background-color:#fff;
+}
+

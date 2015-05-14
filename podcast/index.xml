@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<atom:link href="http://2007.dconstruct.org/podcast/index.xml" rel="self" type="application/rss+xml" />
+		<title>dConstruct 2007</title>
+		<link>http://2007.dconstruct.org/podcast/</link>
+		<language>en</language>
+		<pubDate>Mon, 25 Jun 2007 15:30:00 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Jun 2007 15:30:00 GMT</lastBuildDate>
+		<itunes:subtitle>The podcast of the conference</itunes:subtitle>
+		<itunes:author>Clearleft</itunes:author>
+		<itunes:summary>dConstruct is an affordable, one-day conference aimed at those building the latest generation of web-based applications. The theme for this year's conference is Designing the User Experience.
+
+The music used in this podcast is Sychophantastic by Brighton band, Tailspin.</itunes:summary>
+		<description>dConstruct is an affordable, one-day conference aimed at those building the latest generation of web-based applications. The theme for this year's conference is Designing the User Experience.
+
+The music used in this podcast is Sychophantastic by Brighton band, Tailspin.</description>
+		<itunes:owner>
+			<itunes:name>Jeremy Keith</itunes:name>
+			<itunes:email>jeremy@adactio.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://2007.dconstruct.org/buttons/images/gifs/button-200x200.gif" />
+		<itunes:category text="Technology">
+			<itunes:category text="Tech News" />
+		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+		<item>
+			<title>Tom Coates</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Designing for a Web of Data</itunes:subtitle>
+			<itunes:summary>In this session, Tom will talk about new literacies that designers need to build things that are native to a web of data, the blurring and interplay between designers and developers and what it means to rapidly iterate in small multi-disciplinary teams to find the heart and soul of a new concept.</itunes:summary>
+			<description>In this session, Tom will talk about new literacies that designers need to build things that are native to a web of data, the blurring and interplay between designers and developers and what it means to rapidly iterate in small multi-disciplinary teams to find the heart and soul of a new concept.</description>
+			<enclosure url="http://2007.dconstruct.org/podcast/07-Tom-Coates.mp3" length="31733389" type="audio/mpeg" />
+			<guid>http://2007.dconstruct.org/podcast/07-Tom-Coates.mp3</guid>
+			<pubDate>Wed, 12 Dec 2007 16:40:00 GMT</pubDate>
+			<itunes:duration>52:49</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design,tom coates</itunes:keywords>
+		</item>
+		<item>
+			<title>Matt Webb</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>The Experience Stack</itunes:subtitle>
+			<itunes:summary>Products aren't only their aesthetic form and feature lists in catalogues. We live alongside them, and they open us to experiences. We first spy them across a crowded shop floor (then take them home and unwrap them); we get to know them, are frustrated by them, are pleased by them; we socialise with them and our other friends.</itunes:summary>
+			<description>Products aren't only their aesthetic form and feature lists in catalogues. We live alongside them, and they open us to experiences. We first spy them across a crowded shop floor (then take them home and unwrap them); we get to know them, are frustrated by them, are pleased by them; we socialise with them and our other friends.</description>
+			<enclosure url="http://2007.dconstruct.org/podcast/06-Matt-Webb.mp3" length="28597904" type="audio/mpeg" />
+			<guid>http://2007.dconstruct.org/podcast/06-Matt-Webb.mp3</guid>
+			<pubDate>Fri, 30 Nov 2007 13:00:00 GMT</pubDate>
+			<itunes:duration>47:36</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design,matt webb,user experience</itunes:keywords>
+		</item>
+		<item>
+			<title>George Oates &amp; Denise Wilton</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Human Traffic</itunes:subtitle>
+			<itunes:summary>Denise and George want to talk to you about a few community-based projects they’ve worked on. They’ll delve into strategies and ideas around building a sense of place, and discuss the dynamics they have observed by watching people get comfortable… so comfortable there’s a sense of ownership and possession.</itunes:summary>
+			<description>Denise and George want to talk to you about a few community-based projects they’ve worked on. They’ll delve into strategies and ideas around building a sense of place, and discuss the dynamics they have observed by watching people get comfortable… so comfortable there’s a sense of ownership and possession.</description>
+			<enclosure url="http://2007.dconstruct.org/podcast/05-Oates-Wilton.mp3" length="25219238" type="audio/mpeg" />
+			<guid>http://2007.dconstruct.org/podcast/05-Oates-Wilton.mp3</guid>
+			<pubDate>Fri, 23 Nov 2007 11:25:00 GMT</pubDate>
+			<itunes:duration>41:58</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design,george oates,denise wilton,flickr,b3ta</itunes:keywords>
+		<itunes:explicit>yes</itunes:explicit>
+		</item>
+		<item>
+			<title>Cameron Moll</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Good vs. Great Design.</itunes:subtitle>
+			<itunes:summary>It’s easy to poke fun at bad design, but it’s far more challenging and rewarding to discern differences between good design and great design. This session will teach you practical design techniques for tipping the scales of greatness in your favor, using a blend of graphic design theory, human computing principles, and a communication-centric approach. Learn the difference between concepts such as influence vs. inspiration or machine efficiency vs. user efficiency.</itunes:summary>
+			<description>It’s easy to poke fun at bad design, but it’s far more challenging and rewarding to discern differences between good design and great design. This session will teach you practical design techniques for tipping the scales of greatness in your favor, using a blend of graphic design theory, human computing principles, and a communication-centric approach. Learn the difference between concepts such as influence vs. inspiration or machine efficiency vs. user efficiency.</description>
+			<enclosure url="http://2007.dconstruct.org/podcast/04-Cameron-Moll.mp3" length="25760226" type="audio/mpeg" />
+			<guid>http://2007.dconstruct.org/podcast/04-Cameron-Moll.mp3</guid>
+			<pubDate>Fri, 16 Nov 2007 17:15:00 GMT</pubDate>
+			<itunes:duration>42:52</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design,cameron moll</itunes:keywords>
+		</item>
+		<item>
+			<title>Leisa Reichelt</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Waterfall Bad, Washing Machine Good.</itunes:subtitle>
+			<itunes:summary>Including an introduction to the principles and practices of Agile Methodologies, this presentation explores the opportunities for UCD in an Agile environment, how designers can shape Agile to better support their work, and what designers can learn from Agile methods.</itunes:summary>
+			<description>Including an introduction to the principles and practices of Agile Methodologies, this presentation explores the opportunities for UCD in an Agile environment, how designers can shape Agile to better support their work, and what designers can learn from Agile methods.</description>
+			<enclosure url="http://2007.dconstruct.org/podcast/03-Leisa-Reichelt.mp3" length="26758642" type="audio/mpeg" />
+			<guid>http://2007.dconstruct.org/podcast/03-Leisa-Reichelt.mp3</guid>
+			<pubDate>Mon, 29 Oct 2007 18:00:00 GMT</pubDate>
+			<itunes:duration>44:32</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design,leisa reichelt,agile, user centered design</itunes:keywords>
+		</item>
+		<item>
+			<title>Peter Merholz</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Experience Strategies.</itunes:subtitle>
+			<itunes:summary>Engage in a deep dive into the importance of experience. In this session Peter will cover the historical perspective; lay out the evolution of product categories; demonstrate the competitive advantage that experience provides; explain the importance of thinking about your products in a systems fashion; and cap it off with a discussion of experience strategies and how they can provide stars to sail your ship by.</itunes:summary>
+			<description>Engage in a deep dive into the importance of experience. In this session Peter will cover the historical perspective; lay out the evolution of product categories; demonstrate the competitive advantage that experience provides; explain the importance of thinking about your products in a systems fashion; and cap it off with a discussion of experience strategies and how they can provide stars to sail your ship by.</description>
+			<enclosure url="http://2007.dconstruct.org/podcast/02-Peter-Merholz.mp3" length="28702137" type="audio/mpeg" />
+			<guid>http://2007.dconstruct.org/podcast/02-Peter-Merholz.mp3</guid>
+			<pubDate>Tue, 16 Oct 2007 17:00:00 GMT</pubDate>
+			<itunes:duration>47:46</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design,peter merholz,user experience</itunes:keywords>
+		</item>
+		<item>
+			<title>Jared Spool</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>The Dawning of the Age of Experience.</itunes:subtitle>
+			<itunes:summary>In his usual entertaining and insightful manner, Jared will talk about what it takes to build a design team that meets today’s needs. See how successful experience design integrates the needs of the users with the requirements of the business. See how it is learned, but not available through introspection. Learn how experience design must be invisible to succeed and why it is cultural, multi-disciplinary, and thrives best in an 'educate and administrate' environment.</itunes:summary>
+			<description>In his usual entertaining and insightful manner, Jared will talk about what it takes to build a design team that meets today’s needs. See how successful experience design integrates the needs of the users with the requirements of the business. See how it is learned, but not available through introspection. Learn how experience design must be invisible to succeed and why it is cultural, multi-disciplinary, and thrives best in an 'educate and administrate' environment.</description>
+			<enclosure url="http://2007.dconstruct.org/podcast/01-Jared-Spool.mp3" length="34605040" type="audio/mpeg" />
+			<guid>http://2007.dconstruct.org/podcast/01-Jared-Spool.mp3</guid>
+			<pubDate>Thu, 11 Oct 2007 13:30:00 GMT</pubDate>
+			<itunes:duration>57:36</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design,jared spool,user experience</itunes:keywords>
+		</item>
+		<item>
+			<title>The Return</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>Plan your trip to Brighton.</itunes:subtitle>
+			<itunes:summary>After an unintended hiatus, the podcast returns with a look at all the stuff going on around dConstruct 2007.</itunes:summary>
+			<description>After an unintended hiatus, the podcast returns with a look at all the stuff going on around dConstruct 2007.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftTheReturn/The_Return.mp3" length="11937228" type="audio/mpeg" />
+			<guid>http://www.archive.org/download/ClearleftTheReturn/The_Return.mp3</guid>
+			<pubDate>Wed, 8 Aug 2007 22:30:00 GMT</pubDate>
+			<itunes:duration>12:24</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design</itunes:keywords>
+		</item>
+		<item>
+			<title>Last.fm</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>The people behind Britain's best music site.</itunes:subtitle>
+			<itunes:summary>A late-night chat with Matthew Ogle and Hannah Donovan from Last.fm</itunes:summary>
+			<description>A late-night chat with Matthew Ogle and Hannah Donovan from Last.fm</description>
+			<enclosure url="http://www.archive.org/download/ClearleftLastfm/Last.fm.mp3" length="12176247" type="audio/mpeg" />
+			<guid>http://www.archive.org/download/ClearleftLastfm/Last.fm.mp3</guid>
+			<pubDate>Wed, 4 Jul 2007 12:00:00 GMT</pubDate>
+			<itunes:duration>12:39</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design,last.fm</itunes:keywords>
+		</item>
+		<item>
+			<title>Retrospective</title>
+			<itunes:author>Clearleft</itunes:author>
+			<itunes:subtitle>A look back at dConstruct 2006.</itunes:subtitle>
+			<itunes:summary>dConstruct is back. Before taking a look ahead to this year's event, let's have a listen back to last year's conference and hear how it sets the stage for dConstruct 2007.</itunes:summary>
+			<description>dConstruct is back. Before taking a look ahead to this year's event, let's have a listen back to last year's conference and hear how it sets the stage for dConstruct 2007.</description>
+			<enclosure url="http://www.archive.org/download/ClearleftRetrospective/Retrospective.mp3" length="18497062" type="audio/mpeg" />
+			<guid>http://www.archive.org/download/ClearleftRetrospective/Retrospective.mp3</guid>
+			<pubDate>Mon, 25 Jun 2007 15:30:00 GMT</pubDate>
+			<itunes:duration>19:14</itunes:duration>
+			<itunes:keywords>dconstruct,conference,brighton,web design</itunes:keywords>
+		</item>
+	</channel>
+</rss>
